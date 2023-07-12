@@ -1,0 +1,1 @@
+TO RUN APPLICATION USE COMMAND "npm start"
